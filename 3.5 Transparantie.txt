@@ -1,0 +1,103 @@
+Deze paragraaf bevat vier onderdelen. Deze onderdelen houden nauw
+verband met het motiveringsbeginsel en gaan over de transparantie van
+elementen die relevant zijn voor de inzet van algoritmen. Algoritmen dienen
+traceerbaar, verklaarbaar en transparant te zijn, zodat achterhaald kan
+worden op basis van welke afwegingen een besluit is genomen.
+3.5.1 Norm: Besluitvorming dient transparant te zijn en moet zorgvuldig tot stand
+komen.
+Risico: Gebrek aan transparantie, waardoor niet kan worden achterhaald of
+aan een besluit een zorgvuldig proces vooraf is gegaan en of het voldoet
+aan andere vereisten.
+Maatregel:
+Algoritmen en modellen dienen transparant, betrouwbaar en controleerbaar
+te zijn, zodat achterhaald kan worden op basis van welke afwegingen een
+besluit is genomen. (*)
+Richt een procedure in waardoor kan worden voldaan aan het recht op
+toegang tot publieke informatie.
+Toelichting:
+Bij de voorbereiding van een besluit dient het bestuursorgaan alle relevante
+informatie te verzamelen en de belangen van betrokkenen zorgvuldig af te
+wegen. Het besluit mag geen onredelijke of discriminerende gevolgen voor
+betrokkenen hebben.
+Bron: Artikel 3:2 en 3:46 Awb, artikel 1.1 en 2.5 Woo.
+3.5.2 Norm: Een besluit berust op een deugdelijke motivering.*
+Risico: Het is niet duidelijk dat het besluit (gedeeltelijk) op een algoritme is
+gebaseerd.
+Maatregel: Richt een procedure in waarmee bij een besluit dat is gebaseerd
+op een algoritme uit eigen beweging gemaakte keuzes en gebruikte
+gegevens en aannames aan de betrokkene inzichtelijk worden gemaakt of
+worden gedocumenteerd. *
+Een bestuursorgaan moet inzichtelijk maken:
+
+1. dat een besluit tot stand is gekomen met behulp van een algoritme;
+2. van welke feiten het is uitgegaan en welke gegevens van de burger
+gebruikt c.q. verwerkt zijn;
+3. welke relevante belangen tegen elkaar zijn afgewogen en hoe die
+afweging is verlopen (bijvoorbeeld het gewicht dat wordt toegekend aan elk
+afgewogen kenmerk; welke analytische technieken gebruikt zijn; welke
+specifieke voorspellende data; wat de belangrijkste policy-keuzes waren;
+een uitleg van het voorspellende algoritme);
+4. hoe het algoritme werkt (niet de techniek, maar hoe de uitkomsten van
+het algoritme tot stand komen).
+Ofwel, welke keuzes en aannames zijn gemaakt en welke invoergegevens
+zijn gebruikt.
+Toelichting: Transparantie vormt de kern van maatregelen om grip te
+krijgen op algoritmische besluitvorming. Bij het bepalen van deze
+transparantie kan worden aangesloten bij het motiverings- en het
+zorgvuldigheidsbeginsel. Een besluit dat is gebaseerd op een algoritme dient
+te berusten op een deugdelijke motivering. De motivering wordt vermeld bij
+de bekendmaking van het besluit.
+Bron: Artikel 3:46 - 3:50 Awb, Jurisprudentie over AERIUS (ABRvS 18 juli
+2018, ECLI:NL:RVS:2018:2454), Hof van Justitie C-274/18.
+3.5.3 Norm: De besluitvorming door het algoritme is traceerbaar.
+Risico: Het is niet goed na te gaan op welke manier het algoritme tot het
+besluit is gekomen.
+Maatregel:
+Neem maatregelen om de traceerbaarheid in de besluitvorming te
+waarborgen. Daarbij kan het gaan om de documentatie van:
+• Het ontwerp en de ontwikkeling van door het algoritme gebruikte
+methoden.
+• Het testen en valideren van door het algoritme gebruikte methoden
+• Resultaten van het algoritme
+• Onderzoek in hoeverre de door het algoritme genomen beslissingen
+en dus het resultaat kunnen worden begrepen.
+• Zorg ervoor dat er voor alle eindgebruikers die een verklaring
+wensen, een voor hen begrijpelijke verklaring kan worden gemaakt
+• Onderzoek in hoeverre de beslissingen van het systeem van invloed
+zijn op het besluitvormingsproces binnen de organisatie.
+• Onderzoek en toon aan welk model het eenvoudigst zou zijn voor
+de betreffende toepassing.
+• Controleer of trainings- en testgegevens kunnen worden
+geanalyseerd. Kunnen deze in de loop van de tijd worden veranderd
+en bijgewerkt?
+• Onderzoek of na de training en ontwikkeling van het model er
+mogelijkheden zijn om de interpreteerbaarheid te beoordelen en of
+er toegang is tot de interne werkstroom van het model.
+Toelichting: Indien de totstandkoming van een besluit dat met behulp van
+een algoritme is genomen niet traceerbaar is, kan het algoritme niet worden
+gecontroleerd.
+
+Bron: EC/AI HLEG April 2019 - Hoofdstuk II.1.4.
+3.5.4 Norm: De inzet en werking van het algoritme is gepubliceerd in een register
+en inzichtelijk voor belanghebbenden.
+Risico: Ontbreken transparantie voor burgers/bedrijven/stakeholders
+(belanghebbenden)
+Maatregel:
+Opname van het algoritme in het centrale algoritmeregister of op sites als
+github.com, inclusief beschrijving van werking, gebruikte data en/of
+beschrijving daarvan. Belanghebbenden worden zo op een begrijpelijke
+manier geïnformeerd over onderliggende logica van het algoritme, alsmede
+het belang en de verwachte gevolgen van die verwerking voor de
+betrokkene.
+Toelichting:
+Doel van publicatie van informatie over het algoritme is het bieden van
+transparantie naar betrokkenen. Het zorgt ervoor dat het voor de vooraf
+bepaalde personen/doelgroepen duidelijk is dat zij met een algoritme te
+maken hebben, welke consequenties dat heeft en welke beperkingen het
+algoritme kent. De gewenste mate van transparantie (technische
+transparantie vs. uitlegbaarheid) is weloverwogen; het hangt af van 1) de
+impact van het algoritme op de beslissing, uitkomst en burger, (2) de mate
+van autonomie bij de besluitvorming en (3) het type en de complexiteit van
+het algoritme. De informatie dient voldoende begrijpelijk te zijn voor de
+doelgroep(en).
+Bron: EC/AI HLEG April 2019 - Hoofdstuk II.1.4.

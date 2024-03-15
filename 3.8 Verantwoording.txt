@@ -1,0 +1,184 @@
+Deze paragraaf bevat twee onderdelen. Het eerste is dat bij de inzet van
+algoritmen wordt nagedacht over zorgvuldigheid. Dit behelst doel, impact,
+risicomanagement, rollen en verantwoordelijkheden, grondrechten en
+evaluatie. Een van de maatregelen is het doen van een mensenrechtentoets.
+Het tweede deel gaat over motivering. Dit bevat documentatie van de wijze
+van inzet van algoritmen, maar ook over het maken van afspraken bij het
+uitbesteden van onderdelen van activiteiten aan externe partijen. De
+normen, risico's en maatregelen voor verantwoording komen voort uit de
+Awb en de EC/AI.
+3.8.1 Norm: Zorgvuldig handelen bij de ontwikkeling en de inzet algoritmen
+(zorgvuldigheidsbeginsel).
+1 Risico: Risico: Zonder eenduidigheid over het doel is geen sturing op en
+verantwoording over het algoritme mogelijk en is er een groter risico op
+fouten en/of verschillen in interpretatie.
+Maatregel: Het doel en eventuele subdoelen van het algoritme moeten zo
+specifiek mogelijk zijn geformuleerd, en waar mogelijk gekwantificeerd.
+Maak hiervoor gebruik van een multidisciplinaire aanpak en betrek hierbij
+meerdere afdelingen en stakeholders. Maak de consequenties expliciet en
+leg deze op het juiste niveau vast. Neem indien nodig tegenmaatregelen.
+Een ultieme tegenmaatregel kan zijn het niet inzetten van het algoritme.
+Toelichting: Het doel van het algoritme moet helder zijn gedefinieerd, ook
+in relatie tot het maatschappelijke resultaat (outcome), en wordt gedeeld
+door de eigenaar, ontwikkelaar en gebruiker van het algoritme. Een bewuste
+afweging of het algoritme het juiste middel is om het probleem op
+doelmatige en doeltreffende wijze op te lossen is gemaakt en vastgelegd.
+De publieke waarden die met de inzet van algoritmen worden ingegeven,
+zoals gelijkwaardigheid en veiligheid, maar ook grondrechten die worden
+geraakt, zijn geïnventariseerd en gewogen. Ook de doeltreffendheid,
+subsidiariteit en proportionaliteit van het in te zetten algoritme zijn
+afgewogen.
+Bron: Art. 3.2 Awb (bij besluiten)
+
+EC/AI HLEG April 2019 - Hoofdstuk II. 1.1 en 1.7.
+2 Risico: De impact van het algoritme is niet inzichtelijk, waardoor niet
+helder is welke maatregelen moeten worden getroffen om ongewenste
+effecten (zoals bias en discriminatie) te voorkomen.
+Maatregel: Onderzoek (aan de hand van een mensenrechtentoets) welke
+groepen kwetsbaar zijn voor een fout van het algoritme en welke impact
+dat heeft op deze groepen. Het betreft de ‘menselijke maat’ bij het nemen
+van beslissingen op basis van de output van het algoritme. Maak de
+consequenties expliciet en leg deze op het juiste niveau vast. Neem indien
+nodig tegenmaatregelen. Een ultieme tegenmaatregel kan zijn het niet
+inzetten van het algoritme.
+Toelichting: Het gaat om zowel de impact op personen of doelgroepen, als
+de bredere impact op de samenleving (vanuit sociaal, democratisch en
+milieu/ecologisch perspectief).
+Bron: Art. 3.2 Awb (bij besluiten)
+EC/AI HLEG April 2019 - Hoofdstuk I. 1.1 & Hoofdstuk II. 1.6.
+3 Risico: Zonder actueel beeld van risico's kan er geen goede afweging
+worden gemaakt of de voordelen van de toepassing van het algoritme
+opwegen tegen de nadelen. Risico's worden niet (tijdig) vastgesteld en
+adequaat geadresseerd en behandeld.
+Maatregel: Zorg ervoor dat op vastgelegde (periodieke) momenten een
+afweging plaats vindt van de risico’s over het gebruik van het algoritme.
+Alle stappen van risicomanagement zijn uitgevoerd en op het juiste niveau
+in de organisatie behandeld, waaronder het identificeren, analyseren,
+evalueren (t.a.v. risk appetite), behandelen (risicoreactie, o.a.
+maatregelen), monitoren & beoordelen en communiceren & rapporteren van
+risico's. Maak de consequenties expliciet en leg deze op het juiste niveau
+vast. Neem indien nodig tegenmaatregelen. Een ultieme tegenmaatregel
+kan zijn het niet inzetten of (tijdelijk) stopzetten van het algoritme.
+Toelichting: Het gaat hier om het feit dat er over risico's wordt nagedacht.
+De organisatie moet beschikken over een ingericht en gedocumenteerd
+proces voor risicobeheersing.
+Bron: Art. 3.2 Awb (bij besluiten)
+COBIT EDM03 / APO12.
+EC/AI HLEG April 2019 - Hoofdstuk II.1.7.
+4 Risico: Rollen en verantwoordelijkheden zijn niet duidelijk belegd of
+onvoldoende geborgd.
+Maatregel: De rollen en verantwoordelijkheden bij de ontwikkeling en inzet
+van het algoritme zijn belegd en gedocumenteerd.
+
+Toelichting: Duidelijkheid en borging van rollen en verantwoordelijkheden
+zorgen voor een effectief en verantwoord verloop van het proces rondom de
+inzet van een algoritme. Alle relevante belanghebbenden zijn bij de
+ontwikkeling en inzet van het algoritme betrokken. Het personeel (intern en
+extern) dat werkt met het algoritme moet over voldoende deskundigheid en
+competenties beschikken. Dit moet in ieder geval blijken uit de
+risicoanalyse, waarbij de organisatie maatregelen neemt om eventuele
+gaten te overbruggen. De organisatie heeft een goed beeld van de
+beschikbare resources (kwalitatief en kwantitatief) en stuurt daarop.
+Bron: EC/AI HLEG April 2019 - Hoofdstuk II.1.5, COBIT APO01.02 / EDM01.
+5 Risico: Het algoritme kan negatieve gevolgen hebben voor grondrechten.
+Maatregel: Onderzoek of het algoritme een ongerechtvaardigde inbreuk
+maakt op grondrechten (aan de hand van een mensenrechtentoets). Maak
+de consequenties expliciet en leg deze op het juiste niveau vast. Neem
+indien nodig tegenmaatregelen. Een ultieme tegenmaatregel kan zijn het
+niet inzetten van het algoritme of het (tijdig) stopzetten.
+Toelichting: In situaties wanneer dergelijke risico’s bestaan, kan een
+effectbeoordeling worden uitgevoerd wat grondrechten betreft. Dit kan
+voorafgaand aan de ontwikkeling van het algoritme worden uitgevoerd en
+moet een evaluatie omvatten van de vraag of de risico’s kunnen worden
+beperkt of gerechtvaardigd. De afwegingen tussen de verschillende
+beginselen en rechten moeten zijn vastgesteld en gedocumenteerd.
+Bron: EC/AI HLEG April 2019 - hoofdstuk II. 1.1.
+6 Risico: Zonder evaluatie van de kwaliteit van het algoritme is er geen
+goede sturing, beheersing en verantwoording mogelijk over de inzet van het
+algoritme.
+Maatregel: Er vindt periodiek een evaluatie plaats van de werking en de
+kwaliteit van het algoritme. Er kunnen namelijk wijzigingen in de werking
+van het model of de inputdata zijn. De analyse van klachten en incidenten
+is hier ook onderdeel van. Maak de consequenties expliciet en leg deze op
+het juiste niveau vast. Neem indien nodig tegenmaatregelen. Een ultieme
+tegenmaatregel kan zijn het niet inzetten van het algoritme of het (tijdig)
+stopzetten.
+Toelichting: Kwaliteit is o.a. doeltreffendheid, doelmatigheid,
+betrouwbaarheid en accuraatheid (geschiktheid) en non-discriminatie.
+Evaluatie kan bijvoorbeeld worden gedaan met een peerreview. Een proces
+voor een periodieke evaluatie van de kwaliteit van het algoritme is
+gedocumenteerd en in werking. De resultaten worden met
+belanghebbenden gedeeld. De organisatie analyseert of (interne en externe)
+klachten en incidenten het gevolg kunnen zijn van het gebruik van het
+algoritme. De verantwoordelijke in de business legt verantwoording af over
+de ontwikkeling, inzet en werking van het algoritme.
+Bron: EC/AI HLEG April 2019 - Hoofdstuk II.1.2.
+
+3.8.2 Norm: Motiveer de deugdelijke inzet van algoritmen
+Risico: Afhankelijkheid van externe deskundigen die na het ontwikkelen van
+het algoritme met de betreffende kennis en ervaring weggaan, waardoor
+continuïteit en beheersing daarna niet meer gewaarborgd is.
+Maatregelen:
+1. Bij uitbesteding van onderdelen of activiteiten met betrekking tot het
+algoritme zijn afspraken met betrokken externe partijen gemaakt en
+vastgelegd m.b.t. eigenaarschap, beheer, prestatiecriteria en
+reproduceerbaarheid van het algoritme
+2. De documentatie over het model (ontwerp, werking en voorwaarden) is
+beschikbaar en begrijpelijk voor ontwikkelaars, gebruikers en de eigenaar
+van het model.
+Toelichting:
+1. Overeenkomst met betreffende partij met afspraken over o.a.
+eigenaarschap en beheer (bijv. SLA). Maatregelen om een te grote
+afhankelijkheid te voorkomen moeten zijn beschreven/getroffen, zoals het
+opstellen van een exit-strategie. Bij het maken van afspraken met
+leveranciers moet aandacht zijn voor het risico op vendor lock-in. Hiervan
+is sprake als de opdrachtgever afhankelijk wordt van een externe partij
+(ontwikkelaar), omdat deze niet in staat is om van partij te veranderen
+zonder substantiële omschakelingskosten of ongemak.
+2. De documentatie moet dusdanig begrijpelijk zijn dat het voor (nieuwe)
+medewerkers duidelijk is hoe een model gebruikt moet worden (collegiale
+uitlegbaarheid). Ook wanneer de ontwikkelaars van het model niet meer
+binnen de organisatie werken. Instructies over het gebruik van het model.
+Bij medewerkers navragen of de instructies bekend zijn. Het algoritme moet
+uitlegbaar zijn en er moet een afweging plaatsvinden tussen de
+uitlegbaarheid van het model en de prestatie van het model.
+Bron:
+1.
+Art. 3.46 Awb (bij besluiten).
+EC/AI HLEG April 2019 - Hoofdstuk II.1.7.
+2.
+EC/AI HLEG April 2019 - hoofdstuk II. 1.1 en 1.4.
+
+3.8.3 Norm: Het algoritme is in goede geordende staat en voldoet aan de
+Archiefwet 1995, dit betekent dat het algoritme duurzaam toegankelijk is
+(vindbaar, beschikbaar, leesbaar, interpreteerbaar, betrouwbaar en
+toekomstbestendig. Voor iedereen die daar recht op heeft en voor zo lang
+als noodzakelijk. (*)
+Risico:
+Als informatie over documentatie, trainingsdata, outputdata en logica van
+het algoritme niet beschikbaar is of niet wordt bijgewerkt, is het niet
+herleidbaar op welke wijze het algoritme functioneert en kan het algoritme
+op een gegeven moment anders functioneren dan gedocumenteerd en is het
+niet helder welke versie van de informatie geldig was op welk moment dat
+het algoritme is ingezet. .
+Maatregelen:
+1. Het is vastgelegd inclusief beheerprocessen, wat, hoe, hoelang, waar en
+in welke vorm de documentatie, het model (ontwerp, werking en
+voorwaarden), trainingsdata, output(data) en logica van het algoritme
+bewaard moet worden en beschikbaar moet worden gesteld.
+2. Het is duidelijk welke versie van de documentatie geldig door het gebruik
+van versiebeheer voor documentatie.
+3. Beheer van documentatie in een gecontroleerde omgeving.
+Toelichting:
+Algoritmen dienen duurzaam toegankelijk te zijn voor het uitvoeren van
+overheidstaken, het afleggen van verantwoording hierover, voor burgers en
+bedrijven in het kader van rechtszekerheid, voor het uitvoeren van
+onderzoek en mogelijk als erfgoed.
+Bij de aankoop, bouw, aanpassing, migratie of uitfasering van een algoritme
+pas je de eisen van duurzame toegankelijkheid van overheidsinformatie
+(DUTO-eisen) toe. Door ze op te nemen als requirements op het moment
+dat er inrichtingskeuzes voor nieuwe informatiesystemen gemaakt worden.
+Op deze manier wordt archiveren by design toegepast.
+Bron:
+Archiefwet 1995, artikel 3, Eisen voor de duurzame toegankelijkheid van
+overheidsinformatie (DUTO-eisen) | Nationaal Archief

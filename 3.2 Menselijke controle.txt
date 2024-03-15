@@ -1,0 +1,44 @@
+Deze paragraaf bevat de verplichting om bij algoritmen een gepaste mate
+van menselijke controle te borgen voor het specifieke algoritme en de
+specifieke gebruikssituatie.
+3.2.1 Norm: Er is een gepaste mate van menselijke controle voor het specifieke
+algoritme en de specifieke gebruikssituatie.
+Risico: Gebruikers kunnen geen onderbouwde, autonome beslissingen
+nemen ten aanzien van een algoritmisch systeem.
+Maatregel: Zorg dat bij uitsluitend geautomatiseerde besluitvorming wordt
+voldaan aan de vereisten die volgen uit artikel 22 van de AVG. Zie hierbij
+norm 3.4.10
+Zorg dat goede toezichtmechanismen zijn gewaarborgd. Deze kunnen
+worden bereikt door middel van human-in-the-loop (HITL), human-on-the-
+loop (HOTL) en human-in-command (HIC) benaderingen.
+• HITL: het vermogen van de mens om in te grijpen in elke
+beslissingscyclus van het systeem dat wordt gemonitord. Dit
+betekent dat bij elke beslissing een mens actief betrokken is
+geweest.
+• HOTL: menselijke interventie tijdens de ontwerp- en monitoringcycli
+van het op AI gebaseerde systeem. De rol van de mens hierbij is
+die van toezichthouder op een in principe automatisch verlopend
+proces, waarbij de mens de mogelijkheid heeft om in grijpen
+• HIC: het vermogen van de mens om toezicht te houden op de
+algehele activiteit van het AI-systeem, inclusief de bredere
+economische, maatschappelijke, juridische en ethische gevolgen
+ervan, en ervoor te zorgen dat beslissingen die door het AI-systeem
+worden geproduceerd, door de mens kunnen worden overschreven.
+De ultieme controle over het proces blijft in deze opzet altijd in
+handen van een mens.
+Afhankelijk van de toepassing die wordt overwogen, kunnen mechanismen
+worden ontworpen die een van de bovengenoemde niveaus van menselijk
+toezicht ondersteunen. De tot nu toe voorgestelde methoden zijn
+grotendeels domein-specifiek, omdat gebruikers-algoritme-interfaces
+variëren afhankelijk van de mogelijkheden en achtergrond van de op AI
+gebaseerde oplossing
+Indien het algoritme of de gebruikssituatie zelflerend of autonoom is, dan is
+het van belang om specifiekere controle- en toezichtmechanismen in te
+stellen:
+• Zorg voor detectie- en responsmechanismen om te controleren of
+er iets mis kan gaan
+• Zorg voor een "stopknop" of procedure waarmee een activiteit
+indien nodig veilig kan worden afgebroken.
+• Beoordeel of met deze procedure het proces volledig wordt
+afgebroken, het gedeeltelijk wordt afgebroken of de controle wordt
+overgedragen aan een mens

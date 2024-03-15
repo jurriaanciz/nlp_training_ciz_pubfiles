@@ -1,0 +1,61 @@
+Dit hoofdstuk geeft een overzicht van de belangrijkste verplichtingen en
+richtlijnen voor de verantwoorde inzet van algoritmen. In lijn met de
+ethische richtsnoeren die mede ten grondslag liggen aan de AI Verordening
+betekent het dat die inzet:
+A. wettig is, door te voldoen aan alle toepasselijke wet- en regelgeving
+B. ethisch is, door naleving van ethische beginselen en waarden te
+waarborgen, en
+C. robuust is uit zowel technisch als sociaal oogpunt.
+Deze drie componenten zijn verder uitwerkt in zeven thema’s, in lijn met
+publieke waarden en grondrechten zoals menselijke controle,
+rechtvaardigheid en non-discriminatie.
+Deze onderverdeling in de zeven thema’s is in dit hoofdstuk aangehouden.
+Per thema zijn de belangrijkste normen, risico’s en maatregelen
+opgenomen.
+Het gaat hier om zowel verplichte als niet-verplichte normen en
+maatregelen om de inzet van algoritmen te reguleren. Verplichte normen
+en maatregelen zijn voorschriften die wettelijk bindend zijn en moeten
+worden nageleefd bij de inzet van algoritmen. Ze hebben een dwingend
+karakter en het niet naleven ervan kan juridische consequenties
+hebben. Niet-verplichte normen en maatregelen zijn richtlijnen,
+aanbevelingen of best practices die niet juridisch bindend zijn, maar worden
+aanbevolen als goede praktijken bij de inzet van algoritmen. In onderstaand
+overzicht van normen en maatregelen zijn verplichtingen te herkennen aan
+de ‘(*)’ die is toegevoegd.
+Onderstaand overzicht is zoals gezegd niet bedoeld als ‘checklist’, maar als
+tool voor de verantwoorde inzet van algoritmen. Het blijft altijd nodig om
+zelf tot een afweging te komen en om waar nodig advies in te winnen.
+Het overzicht zal in de vorm van een continu proces verder verrijkt en
+aangepast worden als gevolg van juridische, technologische of
+organisatorische ontwikkelingen.
+De zeven thema’s zijn:
+1. Menselijke controle en menselijk toezicht
+Omvat grondrechten, menselijke controle en menselijk toezicht.
+2. Technische robuustheid en veiligheid
+Omvat weerbaarheid tegen aanvallen en beveiliging, continuïteit en
+algemene veiligheid, nauwkeurigheid, betrouwbaarheid en
+reproduceerbaarheid.
+3. Privacy en data governance
+Omvat respect voor privacy, de kwaliteit en integriteit van gegevens en
+toegang tot gegevens.
+
+4. Transparantie
+Omvat traceerbaarheid, verklaarbaarheid en communicatie.
+5. Diversiteit, non-discriminatie en rechtvaardigheid
+Omvat het voorkomen van onrechtvaardige vertekening,
+toegankelijkheid en universeel ontwerp en participatie van
+belanghebbenden.
+6. Maatschappelijk en milieuwelzijn
+Omvat duurzaamheid en milieuvriendelijkheid, sociale gevolgen,
+samenleving en democratie.
+7. Verantwoording
+Omvat controleerbaarheid, minimalisering en verslaglegging van
+negatieve gevolgen, afwegingen en beroep.
+Figuur 3 Onderlinge verhouding van de zeven thema’s (overgenomen uit de Ethische
+richtsnoeren)
+Centraal bij de thema’s staat de continue evaluatie van de inzet en de
+governance daaromheen. Naast de normen en maatregelen zijn daarom ook
+de organisatorische aspecten van de inzet van algoritmen van belang, zoals
+bewustzijn, cultuur, governance en mogelijkheden voor ethische reflectie.
+Deze aspecten zijn verder uitgewerkt in hoofdstuk 4 van dit
+implementatiekader.

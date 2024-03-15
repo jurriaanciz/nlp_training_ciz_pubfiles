@@ -1,0 +1,152 @@
+Dit onderdeel omvat weerbaarheid tegen aanvallen en beveiliging,
+continuïteit en algemene veiligheid, nauwkeurigheid, betrouwbaarheid en
+reproduceerbaarheid. Dit is uitgewerkt in vijf normen, met daaronder een
+aantal concrete risico's en maatregelen. De eerste norm verwijst naar de
+verplichte toepassing van de Baseline Informatiebeveiliging Overheid (BIO).
+De daaropvolgende normen hebben betrekking op de kwaliteit van de data
+en het algoritme, de herhaalbaarheid van de uitkomsten en inbedding van
+het algoritme in de beheerorganisatie.
+3.3.1 Norm: De informatiebeveiliging is op orde. (*)
+Risico: Wanneer de informatiebeveiliging m.b.t. de omgeving waarin het
+algoritme ontwikkeld en gebruikt wordt onvoldoende op orde is, brengt dit
+grote risico's met zich mee voor de beschikbaarheid, de integriteit en de
+vertrouwelijkheid van gegevens.
+Maatregel: Zorg ervoor dat zowel bij de ontwikkeling van het algoritme als
+bij het gebruik ervan wordt voldaan aan de eisen uit de BIO. (*)
+Toelichting: De gebruikte technische infrastructuur, de inrichting en het
+beheer ervan moeten voldoen aan de daarvoor geldende eisen op het gebied
+van informatiebeveiliging. Voor de overheid zijn deze vastgelegd in de BIO.
+De BIO is in zijn geheel van toepassing.
+Bron: Baseline Informatieveiligheid Overheid.
+3.3.2 Norm: De data die worden gebruikt is eenduidig en representatief voor de
+populatie waarop het algoritme wordt toegepast.
+1. Risico: Door training van het model met een niet-evenwichtige dataset
+presteert het model in de praktijk minder goed dan bij de tests.
+Maatregel: Leg vast welke keuzes zijn gemaakt bij het samenstellen van de
+datasets waarmee het algoritme getraind is en bij de waarborging van de
+kwaliteit ervan. Omschrijf de populatie waarop het algoritme wordt
+toegepast dusdanig duidelijk dat deze statistisch gevalideerd kan worden.
+Leg statistieken vast van inputdatasets die zijn gebruikt bij de onderbouwing
+van data- en modelkeuzes. Bij de keuze voor training- en testdata in de
+ontwikkelfase moet zowel under- als overfitting worden voorkomen.
+Toelichting: De dataset waarmee het algoritme wordt getraind moet
+passend zijn bij het beoogde gebruik ervan. Trainings-, test- en
+validatiedata moeten zijn afgestemd op de populatie waarop het algoritme
+wordt toegepast, inclusief daarin voorkomende subgroepen.
+Bron: EC/AI HLEG April 2019 - hoofdstuk II. 1.2, 2.1§100.
+
+2. Risico: De input- en outputdata voldoen qua kwaliteit, volledigheid en
+betrouwbaarheid niet aan de functionele eisen, waardoor verkeerde
+beslissingen kunnen worden genomen.
+Maatregel: Stel documentatie op waarin de eisen aan de input- en
+outputdata zijn opgenomen en implementeer structurele controles om dit te
+toetsen. Ga voor alle inputdata na of deze tijdig, volledig en definitief
+beschikbaar is, een herleidbare afkomst heeft, consistent is gecodeerd en
+duidelijke metadata bij de variabelen bevat. Kijk daarnaast naar het risico
+van datavervuiling in het proces.
+Toelichting: Als input- en outputdata van onvoldoende kwaliteit zijn of een
+andere betekenis hebben dan verwacht, dan zijn de uitkomsten van het
+model onbetrouwbaar, wat kan leiden tot verkeerde beslissingen.
+Bron: EC/AI HLEG April 2019 - hoofdstuk II. 1.3.
+3.3.3 Norm: Het algoritme dat wordt gebruikt is geschikt voor het doel waarvoor
+het wordt ingezet.
+1. Risico: Het algoritme dat wordt gebruikt is niet geschikt voor het doel
+waarvoor het wordt ingezet.
+Maatregel: Documenteer de grenzen van de toepasbaarheid van het
+algoritme en de voorwaarden waaronder het kan worden gebruikt.
+Toelichting: Het moet duidelijk zijn onder welke voorwaarden een algoritme
+wel of niet gebruikt kan worden. Denk hierbij bijvoorbeeld aan eisen voor
+de verdeling van data of afwijkingen van de productieset ten opzichte van
+de testset. Deze voorwaarden moeten dusdanig helder zijn gedocumenteerd
+dat deze informatie ook toegankelijk is voor medewerkers die niet bij de
+ontwikkeling van het algoritme betrokken waren.
+Bron: EC/AI HLEG April 2019 - hoofdstuk II. 1.1, 1.2.
+2. Risico: De hyperparameters zijn niet goed gekozen, waardoor niet goed
+gestuurd kan worden op het leerproces en het model suboptimaal presteert.
+Maatregel: Leg de keuze voor de hyperparameters vast en onderbouw deze,
+bijvoorbeeld in Git en/of het technisch of functioneel ontwerp. Het uitvoeren
+van een peer review (vierogenprincipe) kan hiervan onderdeel zijn.
+Toelichting: Een hyperparameter is een parameter waarmee kan worden
+gestuurd op een trainings- en leerproces.
+Bron: EC/AI HLEG April 2019 - hoofdstuk II. 1.2.
+
+3.3.4 Norm: De uitkomsten van het algoritme zijn eenduidig en betrouwbaar.
+1 Risico: Als trainings-, validatie- en testdata door elkaar lopen ("data
+leakage"), kan dit leiden tot overfitting, waardoor het model beter lijkt te
+presteren dan in werkelijkheid het geval is.
+Maatregel: Scheid de datasets voor training, validatie en testen en leg vast
+welke datasets voor welk doel gebruikt zijn. Let in het bijzonder op wanneer
+het model geüpdatet wordt aan de hand van (deels) eerder gebruikte data.
+Toelichting: Vermenging van trainings-, validatie- en testdata kan leiden tot
+overfitting van het model, waardoor het goed werkt voor de data waarmee
+het is getraind, maar niet geschikt is voor nieuwe observaties. Het gevolg
+van overfitting is dat prestaties van het model worden overschat. Dit komt
+doordat het lijkt alsof wordt getest op basis van data die het model nog niet
+eerder heeft gezien, terwijl in werkelijkheid wordt getest met data waarmee
+het model ook is getraind.
+Bron: EC/AI HLEG April 2019 - hoofdstuk II. 1.2, 2.1§100.
+2. Risico: Het doel van het algoritme, de functionele eisen van het model en
+de performance metrics sluiten onvoldoende op elkaar aan, waardoor niet
+kan worden beoordeeld of het voldoende presteert en of de kwaliteit ervan
+op orde is.
+Maatregel: Documenteer alle prestatiecriteria, inclusief de relatie met de
+doelstellingen en de functionele eisen van het algoritme. Bewaar
+testresultaten waaruit blijkt dat het algoritme aan de criteria voldoet.
+Toelichting: De functionele eisen moeten zijn uitgewerkt in meetbare eisen,
+onder andere met betrekking tot de prestaties, robuustheid, bias en
+uitlegbaarheid van het model. Deze eisen moeten passen bij de
+modelspecifieke context.
+Bron: EC/AI HLEG April 2019 - hoofdstuk II. 1.1 t/m 1.6.
+3. Risico: Door veranderingen in de data presteert het algoritme niet meer
+zoals verwacht.
+Maatregel: Leg voor elk algoritme de kwaliteits- en prestatiedoelen vast.
+Stel een procesbeschrijving op voor het monitoren hiervan. Evalueer bij
+veranderingen in de data of het algoritme nog aan de vastgestelde doelen
+voldoet en neem indien nodig maatregelen.
+Toelichting: Veranderingen in de data kunnen ertoe leiden dat de prestaties
+van het algoritme achteruitgaan. Wanneer veranderingen in de data niet
+direct duidelijk zijn, zal periodiek een evaluatie moeten plaatsvinden.
+Bron: EC/AI HLEG April 2019 - hoofdstuk II. 1.2, 1.3.
+
+4. Risico: Beslissingen worden genomen op basis van outputdata die
+verkeerd zijn begrepen.
+Maatregel: Zorg voor een eenduidige beschrijving van alle variabelen. Neem
+indien nodig extra toelichting op in de metadata.
+Toelichting: De interpretatie van de uitkomsten van het model moet
+eenduidig zijn en onafhankelijk van de persoon die de beoordeling uitvoert.
+Bron: EC/AI HLEG April 2019 - hoofdstuk II. 1.4.
+3.3.5 Norm: De continuïteit van het algoritme is gewaarborgd.
+1 Risico: De organisatie is voor de data en/of het gebruik van het algoritme
+afhankelijk van derden en kan daardoor de reproduceerbaarheid, het
+prestatieniveau en de continuïteit ervan niet garanderen.
+Maatregel: Alle gebruikte data moeten traceerbaar of reproduceerbaar zijn.
+In geval van uitbesteding van het beheer aan derden moeten hierover
+heldere afspraken gemaakt worden gemaakt.
+Toelichting: De data en het model zijn bij voorkeur in eigen beheer.
+Wanneer dit niet mogelijk is, moeten afspraken zijn gemaakt om de
+functionele eisen die hieraan gesteld zijn te waarborgen.
+Bron: EC/AI HLEG April 2019 hoofdstuk II 1.7.
+2 Risico: Er vindt na ingebruikname van het algoritme onvoldoende
+monitoring plaats op de werking ervan, waardoor fouten of ongewenste
+effecten in de toepassing van het algoritme niet of niet tijdig worden
+opgemerkt.
+Maatregel: Richt een proces in rondom monitoring van het algoritme.
+Toelichting: Na ingebruikname van een algoritme moet periodiek worden
+beoordeeld of het nog doet wat het zou moeten doen. Denk hierbij aan
+monitoring op beschikbaarheid, prestaties/kwaliteit en compliance met
+(actuele) wet- en regelgeving.
+Bron: COBIT APO11 / BAI04 / DSS04
+3. Risico: Er is onvoldoende capaciteit beschikbaar in de beheerorganisatie,
+waardoor benodigde aanpassingen op het algoritme niet of niet tijdig
+worden doorgevoerd.
+Maatregel: Zorg voor heldere afspraken op het gebied van onderhoud en
+beheer op het algoritme, o.a. met betrekking tot de technische
+
+componenten, de gebruikte data, het model en de daarin gebruikte
+parameters.
+Toelichting: Het risico bestaat dat bij het in productie nemen van het
+algoritme onvoldoende aandacht wordt besteed aan de overdracht aan de
+beheerorganisatie. Gevolg hiervan kan zijn dat in de beheerorganisatie
+onvoldoende capaciteit en/of kennis van het algoritme beschikbaar is om
+eventuele aanpassingen tijdig door te voeren.
+Bron: COBIT APO09 / APO14 / BAI06.

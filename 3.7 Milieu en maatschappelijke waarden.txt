@@ -1,0 +1,19 @@
+Deze paragraaf bevat één onderdeel en dat is duurzaamheid. Hierin wordt
+de aanbeveling gedaan om de impact van het milieu zo laag mogelijk te
+houden in de modelkeuze. Het bevat expliciet géén maatregel. De normen,
+risico's en maatregelen voor milieu en maatschappelijke waarden komen uit
+de Sustainable Development Goals (SDG).
+3.7.1 Norm: Bewerkstellig duurzaamheid; ook in de ontwikkeling van algoritmen.
+Risico: De impact van het model op het milieu is disproportioneel hoog.
+
+Aanbeveling: Inventariseer de impact op het milieu en neem deze mee bij
+de modelkeuze en ontwikkeling. Maak de consequenties expliciet en leg
+deze op het juiste niveau vast. Neem indien nodig tegenmaatregelen. Een
+ultieme tegenmaatregel kan zijn het (tijdelijk) stopzetten van het algoritme.
+Toelichting: Het trainen van een neuraal netwerk kost bijvoorbeeld meer
+energie dan een beslisboom. Er is meegenomen of de hoeveelheid gebruikte
+energie proportioneel is voor het doel van het algoritme. Daarnaast is
+nagedacht hoe de milieu-impact bij de ontwikkeling zo laag mogelijk kan
+worden gehouden. Parameters worden bijvoorbeeld tijdens het trainen niet
+via trial and error bepaald als deze ook afgeleid kunnen worden.
+Bron: SDG 11/ EC/AI HLEG April 2019 hoofdstuk II 1.6.

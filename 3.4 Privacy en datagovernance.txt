@@ -1,0 +1,291 @@
+Als persoonsgegevens worden verwerkt en is vastgesteld dat de AVG van
+toepassing is14, dan moet de algoritmische toepassing in overeenstemming
+zijn met de vereisten uit de AVG. Hierbij geldt dat een verwerking van
+persoonsgegevens altijd aan de eisen van proportionaliteit en subsidiariteit
+moet voldoen. Voor verwerkingsverantwoordelijken die in het kader van een
+taak in het publieke belang persoonsgegevens verwerken, geldt bovendien
+dat in overeenstemming met de algemene beginselen van behoorlijk
+bestuur moet worden gehandeld. Deze paragraaf geeft een overzicht van
+twaalf normen die hun grondslag vinden in de AVG. Naast de beoordeling
+van de normen en risico's die aan de verwerking verbonden zijn, kan een
+DPIA verplicht zijn om de beoordeling en de getroffen maatregelen te
+documenteren. Er is een handreiking gemaakt die uitlegt wat de AVG
+betekent voor partijen die persoonsgegevens verwerken. En aan welke
+regels deze gegevensverwerking moet voldoen.15
+3.4.1 Norm: Rollen en verantwoordlijkheden m.b.t. de verwerking van
+persoonsgegevens zijn gespecificeerd. (*)
+Risico: Rollen en verantwoordelijkheden m.b.t. de verwerking van
+persoonsgegeven in het algoritme zijn niet helder belegd. (*)
+Maatregel:
+Ga van alle betrokken partijen na wat hun rol is en documenteer deze. Zorg
+ervoor dat met partijen duidelijke afspraken zijn gemaakt.
+Toelichting:
+De verplichtingen uit de AVG zijn van toepassing op de
+verwerkingsverantwoordelijke.
+Wanneer een partij samen met een of meerdere andere partijen de doelen
+en essentiële middelen bepaalt voor de verwerking, dan is er sprake van
+gezamenlijke verwerkingsverantwoordelijkheid. Bij gezamenlijke
+verantwoordelijkheid moeten de partijen onderling duidelijke afspraken
+maken over wie invulling geef aan de diverse rechten en plichten uit de AVG.
+14 Zoals aangegeven in paragraaf 1.2 zijn er bepaalde sectoren waar een
+afwijkend wettelijk kader geldt. Op deze organisaties is dit hoofdstuk niet
+van toepassing, maar moet worden voldaan aan de respectievelijke
+geldende wettelijke kaders zoals de Wpg en de Wjsg.
+15 Handleiding Algemene Verordening Gegevensbescherming (AVG) | Rapport |
+Rijksoverheid.nl
+
+Verwerkingsverantwoordelijken schakelen regelmatig personen of
+organisaties in die voor hen persoonsgegevens verwerken. De verwerker
+verwerkt persoonsgegevens uitsluitend ten behoeve van de
+verwerkingsverantwoordelijke. De taken van de verwerker jegens de
+verwerkingsverantwoordelijke moeten in een verwerkersovereenkomst
+worden gespecificeerd.
+Bron: Artikel 24,26,27, 28,29 AVG.
+3.4.2 Norm: Een gegevensbeschermingseffectbeoordeling / Data Protection
+Impact Assessment (GEB / DPIA) is verplicht, indien een verwerking van
+persoonsgegevens waarschijnlijk een hoog risico inhoudt voor de rechten
+en vrijheden van natuurlijke personen. (*)
+Risico: Bij de verwerking van persoonsgegevens zijn de risico's voor de
+rechten en vrijheden van betrokkenen niet bekend en niet gemitigeerd.
+Maatregel:
+Beoordeel of de gegevensverwerking waarschijnlijk een hoog risico voor de
+rechten en vrijheden oplevert voor de mensen van wie gegevens worden
+verwerkt. Met behulp van bijvoorbeeld de Pre-scan DPIA16 of de lijst
+verplichte DPIA van de AP17 kan worden vastgesteld of het uitvoeren van
+een DPIA noodzakelijk is.
+Indien blijkt dat de gegevensverwerking waarschijnlijk een hoog
+privacyrisico oplevert, dan moet een DPIA worden uitgevoerd.(*) De
+Rijksoverheid heeft het Model DPIA Rijksdienst ontwikkeld.18
+Toelichting:
+Een DPIA is een beoordeling van de effecten van een voorgenomen
+verwerkingsactiviteit op de bescherming van persoonsgegevens en de
+rechten en vrijheden van betrokkenen. Op basis hiervan worden
+maatregelen getroffen om deze effecten voor betrokkenen te voorkomen of
+te verkleinen. Hoewel een DPIA een verplichting is op basis van de AVG en
+voornamelijk ziet op het beoordelen van privacyrisico’s, dient een DPIA dus
+breder opgevat te worden.
+Bron: Artikel 35 AVG.
+3.4.3 Norm: De verwerking van persoonsgegevens is rechtmatig, behoorlijk en
+transparant. (*)
+Risico: De verwerking van persoonsgegevens gebeurt niet rechtmatig,
+behoorlijk of transparant.
+Maatregel:
+De betrokkenen zijn geïnformeerd over de verwerking van
+persoonsgegevens. Bijvoorbeeld middels een privacyverklaring op de
+16 Producten/diensten - cip-overheid
+17 Besluit lijst verplichte DPIA | Autoriteit Persoonsgegevens
+18 Producten/diensten - cip-overheid
+
+website en indien relevant opgenomen in individuele communicatie naar
+betrokkene(n). (*)
+Organisaties die gegevens verwerken zoals bedoeld in artikel 22 AVG
+moeten naast de algemene vereisten nuttige informatie over de
+onderliggende logica verstrekken. Nuttige informatie over de onderliggende
+logica betreft bijvoorbeeld:
+• Dat de verstrekte informatie volledig genoeg moet zijn voor de
+betrokkene om de redenen van het besluit te kunnen begrijpen.
+• Gedetailleerde informatie over de belangrijkste kenmerken die bij
+de besluitvorming in beschouwing worden genomen, de bron van
+deze informatie en het belang ervan.
+Leg dit vast in de DPIA.
+Toelichting:
+De inzet van een algoritme is voor de betrokkene vaak onzichtbaar. De mate
+waarin mensen dergelijke processen begrijpen, verschilt per persoon. Voor
+sommigen kan het moeilijk zijn de complexe technieken te begrijpen.
+Bron: Artikel 5, lid 1, onder a AVG, Artikel 12-14 AVG.
+3.4.4 Norm: Persoonsgegevens mogen alleen voor welbepaalde, uitdrukkelijk
+omschreven en gerechtvaardigde doeleinden worden verzameld en mogen
+vervolgens niet verder op een met die doeleinden onverenigbare wijze
+worden verwerkt (doelbinding)*
+Risico: Er worden persoonsgegevens verwerkt zonder dat hiervoor een doel
+is bepaald. De verwerking van persoonsgegevens in het algoritme valt niet
+onder het doel waarvoor zij verzameld zijn of een hiermee verenigbaar doel.
+Maatregel:
+Stel welbepaalde, uitdrukkelijk omschreven en gerechtvaardigde doelen
+vast voor de verwerking van persoonsgegevens. Check of de verwerking
+past binnen de wettelijke grondslag die geldt voor het uitvoeren van de
+taak.
+Persoonsgegevens die reeds verzameld zijn mogen wel verder worden
+verwerkt voor andere doelen, maar alleen als die doelen verenigbaar zijn
+met het oorspronkelijke verzameldoel. Om te bepalen of een nieuw doel
+verenigbaar is, moet een verenigbaarheidstoets worden uitgevoerd.
+Leg dit vast in de DPIA.
+Toelichting:
+Uitgangspunt is dat persoonsgegevens alleen mogen worden verwerkt als
+de verwerking noodzakelijk is met het oog op het bereiken van specifieke
+doelen. Wanneer het gerechtvaardigd is om persoonsgegevens te
+verwerken, moet de verwerking ervan vervolgens netjes en verantwoord
+gebeuren. Ten slotte moet duidelijk zijn voor welke doelen
+persoonsgegevens worden verwerkt en hoe dat gebeurt.
+Bron: Artikel 5, lid 1, onder b AVG en Overweging 50 AVG.
+
+3.4.5 Norm: Elke verwerking van persoonsgegevens moet gerechtvaardigd
+zijn.(*)
+Risico: De verwerking is niet gerechtvaardigd omdat het doel van de
+verwerking niet kan worden gebaseerd op één van de zes rechtsgrondslagen
+die in de AVG worden gegeven.
+Maatregel:
+Bepaal of de gegevensverwerking gerechtvaardigd is. De verwerking is
+gerechtvaardigd wanneer het doel van de verwerking kan worden gebaseerd
+op één van de zes rechtsgrondslagen die in de AVG worden gegeven. Kan
+dat niet, dan is het niet toegestaan persoonsgegevens te verwerken. De lijst
+van rechtsgrondslagen is limitatief, er kunnen geen andere gronden worden
+aangevoerd.*
+Toelichting:
+In de AVG staan de volgende 6 grondslagen voor het verwerken van
+persoonsgegevens:
+1. Toestemming van de persoon om wie het gaat.
+2. Het is noodzakelijk om persoonsgegevens te verwerken om een
+overeenkomst uit te voeren.
+3. Het is noodzakelijk om persoonsgegevens te verwerken omdat dit
+wettelijk verplicht is.
+4. Het is noodzakelijk om gegevens te verwerken om vitale belangen
+te beschermen.
+5. Het is noodzakelijk om gegevens te verwerken om een taak van
+algemeen belang of openbaar gezag uit te oefenen.
+6. Het is noodzakelijk om gegevens te verwerken om gerechtvaardigde
+belang te behartigen
+Wanneer er sprake is van een afhankelijkheidsrelatie, bijvoorbeeld in de
+relatie overheid-burger, zal toestemming niet snel vrij zijn gegeven. Dit
+betekent dat dergelijke situaties geen geldige toestemming kan worden
+gevraagd.
+Vanwege het feit dat de wetgever de rechtsgrond bepaalt voor de
+verwerking van persoonsgegevens door overheidsinstanties, is de
+rechtsgrond ‘gerechtvaardigd belang’ niet van toepassing op verwerkingen
+door overheidsinstanties in het kader van de uitvoering van hun taken.
+Voor de verwerking van bijzondere categorieën van persoonsgegevens en
+persoonsgegevens van strafrechtelijke aard gelden aanvullende
+voorwaarden, deze bepalingen worden beschreven norm 3.4.10.
+Leg dit vast in de DPIA.
+Bron: Artikel 6 AVG.
+3.4.6 Norm: De verwerkte persoonsgegevens zijn toereikend, ter zake dienend en
+beperkt tot het noodzakelijke (dataminimalisatie). (*)
+Risico: De verwerkte persoonsgegevens zijn niet proportioneel en relevant
+in relatie tot het doel.
+
+Maatregel: Beoordeel welke persoonsgegevens voor het algoritme nodig zijn
+en hoe lang deze moeten worden bewaard. Gebruik waar mogelijk
+geanonimiseerde of gepseudonimiseerde gegevens. (*)
+Leg dit vast in de DPIA
+Bron: artikel 5 lid 1 onder c AVG.
+3.4.7 Norm: De gegevens zijn juist en zo nodig geactualiseerd. (*)
+Risico: De kwaliteit en integriteit van data zijn niet voldoende geborgd.
+Maatregel: (verplicht)
+Verwerkingsverantwoordelijken moeten in alle stappen van het
+algoritmeproces juistheid in het oog houden, in het bijzonder bij:
+• Het verzamelen van gegevens;
+• Het analyseren van gegevens;
+• Het opstellen van model; of
+• Het toepassen van een model om een besluit met betrekking tot de
+persoon te nemen
+Leg dit vast in de DPIA.
+Toelichting: Als de gegevens die in het algoritme worden gebruikt onjuist
+zijn, zullen ook besluiten of profielen die daaruit voortkomen onjuist zijn.
+Besluiten zijn mogelijk genomen op basis van verouderde gegevens of de
+onjuiste interpretatie van externe gegevens. Zelfs wanneer ruwe gegevens
+correct worden opgeslagen, is de gegevensreeks mogelijk niet geheel
+representatief of kunnen de analysegegevens ongemerkt vooroordelen
+bevatten.
+Bron: artikel 5 lid 1 sub d AVG.
+3.4.8 Norm: Gegevens worden niet langer worden bewaard dan nodig
+(opslagbeperking).*
+Risico: Persoonsgegevens worden langer bewaard dan nodig.
+Maatregel: De bewaartermijnen moeten aansluiten op de selectielijsten
+(Archiefwet). Zorg voor een vernietigingsprocedure, een document waaruit
+blijkt dat dit ingeregeld en/of uitgevoerd is.*
+Leg dit vast in DPIA.
+Toelichting: Persoonsgegevens mogen niet langer bewaard worden dan
+noodzakelijk voor het doel van de verwerking. Wanneer de gegevens niet
+langer noodzakelijk zijn, dan moeten zij worden vernietigd of gewist.
+Bron: Artikel 5, lid 1 AVG; Archiefwet.
+
+3.4.9 Norm: Het algoritme verwerkt alleen bijzondere persoonsgegevens,
+strafrechtelijke gegevens of nationale identificatienummers (o.a. BSN) als
+deze op basis van een wettelijke uitzondering verwerkt mogen worden.
+Risico: Verwerking van bijzondere persoonsgegevens (o.a. gegevens m.b.t.
+ras of afkomst, religie, gezondheid of seksuele geaardheid), strafrechtelijke
+gegevens of nationale identificatienummers (o.a. BSN) is alleen toegestaan
+als hierop een wettelijke uitzondering van toepassing is.
+Maatregel:
+Op het verwerken van bijzondere categorieën van persoonsgegevens rust
+een verwerkingsverbod. Hierop is echter wel een beperkt aantal
+uitzonderingen geformuleerd. Een deel van de uitzonderingen is geregeld in
+de AVG. De UAVG bevat daarnaast specifieke uitzonderingen per categorie.
+(*)
+De verwerking van strafrechtelijke gegevens, is alleen toegestaan als dat
+gebeurt onder toezicht van de overheid, of als het specifiek bij wet is
+geregeld.
+Nationale identificatienummers mogen alleen worden gebruikt voor in de
+wet voorgeschreven doelen.
+Leg dit vast in de DPIA
+Toelichting:
+Bijzondere categorieën van persoonsgegevens zijn gegevens die gezien hun
+aard extra gevoelig zijn. Het gaat specifiek om: gegevens waaruit ras of
+etnische afkomst blijkt, politieke opvattingen, religieuze of
+levensbeschouwelijke overtuigingen, het lidmaatschap van een vakbond,
+genetische gegevens, biometrische gegevens met het oog op de unieke
+identificatie van een persoon, gegevens over gezondheid en gegevens met
+betrekking tot iemands seksueel gedrag of seksuele gerichtheid.
+Bron: Artikel 9, 10 en 87 AVG, Hoofdstuk 3 UAVG.
+3.4.10 Norm: Betrokkenen kunnen een beroep doen op hun privacyrechten. (*)
+Risico: Bij het verwerken van persoonsgegevens in een algoritme is voor
+gebruikers niet duidelijk dat hier sprake van is waardoor ze geen beroep
+kunnen doen op hun privacyrechten.
+Maatregel: Geef aan hoe invulling wordt gegeven aan de rechten van
+betrokkenen.(*) Stel een procedure vast waarmee o.a. aan verzoekers
+informatie kan worden verstrekt over geautomatiseerde verwerking van
+persoonsgegevens en de onderliggende logica en het belang en de
+verwachte gevolgen van de verwerking.
+Indien de rechten van de betrokkene worden beperkt, bepaal dan op grond
+van welke wettelijke uitzonderingen dat is toegestaan en leg dit vast.
+Toelichting: Om een eerlijke verwerking van persoonsgegevens te
+waarborgen geeft de AVG diverse rechten aan de betrokkene. De
+
+betrokkene kan deze rechten uitoefenen tegen de
+verwerkingsverantwoordelijke.
+Bron: Artikel 15-22 AVG.
+3.4.11 Norm: Betrokkenen hebben het recht om niet onderworpen te worden aan
+een enkel op geautomatiseerde verwerking, waaronder proflering,
+gebaseerd besluit, wanneer dit rechtsgevolgen heeft voor hen of het hen
+anderszins in aanzienlijke mate tref. (*)
+Risico: Een betrokkene ondervindt aanmerkelijke gevolgen door een
+geautomatiseerd besluit, zonder dat deze een beroep op menselijke
+tussenkomst kan doen.
+Maatregel:
+Ga na of sprake is van een verboden vorm van geautomatiseerde
+verwerking van persoonsgegevens.
+Deze maatregelen moeten tenminste het volgende omvatten:
+• Het recht op menselijke tussenkomst;
+• Het recht voor de betrokkene om zijn standpunt kenbaar te maken;
+en
+• Het recht om het besluit aan te vechten.
+Leg dit vast in de DPIA.
+Toelichting:
+Bij uitsluitend geautomatiseerde individuele besluitvorming is er géén
+sprake van (noemenswaardige) menselijke tussenkomst.
+Bron: artikel 22 AVG en artikel 40 UAVG.
+3.4.12 Norm: Privacy en gegevensbescherming is meegenomen als eis bij het
+ontwerp van nieuwe systemen waarmee persoonsgegevens worden
+verwerkt. (‘privacy door ontwerp en standaardinstellingen/ Privacy by
+Design en Privacy by Default)
+Risico: Ontwerp en opzet van het algoritme zijn onvoldoende gericht op de
+bescherming van privacy.
+Maatregel:
+Neem technische en organisatorische maatregelen om invulling te geven
+aan het uitgangspunt van privacy door ontwerp en door
+standaardinstellingen. Bij het bepalen van de maatregelen moet rekening
+worden gehouden met de volgende elementen:
+• De stand van de techniek;
+• De uitvoeringskosten;
+• De aard, omvang, context en het doel van de verwerking;
+• De risico’s voor de betrokkene.
+Leg dit vast in de DPIA.
+
+Toelichting:
+Privacy door ontwerp en door standaardinstellingen houdt in dat privacy en
+gegevensbescherming worden meegenomen als eisen bij de ontwikkeling
+het ontwerp van nieuwe systemen waarmee persoonsgegevens worden
+verwerkt, waarbij een zo klein mogelijke inbreuk op de persoonlijke
+levenssfeer wordt gemaakt, bijvoorbeeld door het toepassen van
+pseudonimisering en het inbouwen van andere technische waarborgen.
+Bron: Artikel 25 AVG.
