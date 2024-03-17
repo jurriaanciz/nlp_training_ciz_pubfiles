@@ -1,6 +1,7 @@
 pandas==2.0.0
+pillow==10.1.0
+wrapt==1.15
 pillow_heif==0.15.0
-pillow==10.2.0
 gitpython==3.1.42
 pyLDAvis==3.4.1
 pdfminer.six
