@@ -21,3 +21,5 @@ pypdf
 chromadb
 PyMuPDF
 gensim
+pi_heif
+unstructured_inference
